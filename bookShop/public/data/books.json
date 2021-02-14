@@ -1,0 +1,107 @@
+[
+    {
+        "id": "7f2bbf72-4af0-46e5-b102-78a58c81d651",
+        "name": "Pride and Prejudice",
+        "author": {
+            "id": "d97107ef-8814-4560-9e35-aa8c6741440d",
+            "fullName": "Jane Austen",
+            "birthDate": "1775-12-16T00:00:00"
+        },
+        "category": "Drama",
+        "description": "Pride and Prejudice, romantic novel by Jane Austen, published anonymously in three volumes in 1813. A classic of English literature, written with incisive wit and superb character delineation, it centres on the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner.",
+        "imageName": "PrideAndPrejudice.jpg",
+        "price": 20.99,
+        "releaseDate": "1813-01-28T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "784945c5-53e7-4302-866a-07dc39c9bd0a",
+        "name": "Emma",
+        "author": {
+            "id": "d97107ef-8814-4560-9e35-aa8c6741440d",
+            "fullName": "Jane Austen",
+            "birthDate": "1775-12-16T00:00:00"
+        },
+        "category": "Novel",
+        "description": "Emma is a comedy of errors full of misunderstandings, misguided plans and a heroine who Austen merrily pokes fun at. It has a fair amount in common with Pride and Prejudice, but Emma is a less obviously likeable heroine than Lizzy, who is somewhat deluded in her matchmaking schemes. But this makes for the novel’s real joy; enjoying the incredibly clever way Austen contrasts what we know to be true about Emma with how she herself perceives her own story.",
+        "imageName": "Emma.jpg",
+        "price": 22.99,
+        "releaseDate": "1996-07-07T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "d4a9fc1c-8fc8-4d35-ad1d-e325679a6120",
+        "name": "Sense and Sensibility",
+        "author": {
+            "id": "d97107ef-8814-4560-9e35-aa8c6741440d",
+            "fullName": "Jane Austen",
+            "birthDate": "1775-12-16T00:00:00"
+        },
+        "category": "Novel",
+        "description": "Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment, even from those closest to her. Through their parallel experience of love - and its threatened loss - the sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.",
+        "imageName": "SenseAndSensibility.jpeg",
+        "price": 19.55,
+        "releaseDate": "1811-10-30T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "392f0cd0-6913-4d1c-a92b-f889684ff7aa",
+        "name": "The Picture of Dorian Gray",
+        "author": {
+            "id": "c18d644b-95bb-4114-a43d-63ff07e6caeb",
+            "fullName": "Oscar Wilde",
+            "birthDate": "1854-10-16T00:00:00"
+        },
+        "category": "Fiction",
+        "description": "The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott's Monthly Magazine. Fearing the story was indecent, prior to publication the magazine's editor deleted roughly five hundred words without Wilde's knowledge.",
+        "imageName": "ThePictureOfDorianGray.jpg",
+        "price": 19.99,
+        "releaseDate": "1890-01-01T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "5ffd96b7-5557-4fa4-b1d1-a1659551438f",
+        "name": "The Canterville Ghost",
+        "author": {
+            "id": "c18d644b-95bb-4114-a43d-63ff07e6caeb",
+            "fullName": "Oscar Wilde",
+            "birthDate": "1854-10-16T00:00:00"
+        },
+        "category": "Dark Comedy",
+        "description": "The Canterville Ghostis a humorous short story by Oscar Wilde. It was the first of Wilde's stories to be published, appearing in two parts in The Court and Society Review, 23 February and 2 March 1887.",
+        "imageName": "TheCantervilleGhost.jpg",
+        "price": 15.6,
+        "releaseDate": "1944-07-28T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "397fafaf-f24f-4ac8-8a46-8bb0c8f00454",
+        "name": "War and Peace",
+        "author": {
+            "id": "18995b70-fa8f-4066-bff8-bca815d1826a",
+            "fullName": "Leo Tolstoy",
+            "birthDate": "1828-09-09T00:00:00"
+        },
+        "category": "Novel",
+        "description": "War and Peace is a novel by the Russian author Leo Tolstoy, first published serially, then published in its entirety in 1869.It is regarded as one of Tolstoy's finest literary achievements and remains a classic of world literature.",
+        "imageName": "WarAndPeace.jpg",
+        "price": 39.99,
+        "releaseDate": "1867-01-01T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "fa5484cc-5311-48f0-958f-80ba1734a3d1",
+        "name": "Anna Karenina",
+        "author": {
+            "id": "18995b70-fa8f-4066-bff8-bca815d1826a",
+            "fullName": "Leo Tolstoy",
+            "birthDate": "1828-09-09T00:00:00"
+        },
+        "category": "Fiction",
+        "description": "Acclaimed by many as the world's greatest novel, Anna Karenina provides a vast panorama of contemporary life in Russia and of humanity in general. In it Tolstoy uses his intense imaginative insight to create some of the most memorable characters in all of literature. Anna is a sophisticated woman who abandons her empty existence as the wife of Karenin and turns to Count Vronsky to fulfil her passionate nature - with tragic consequences. Levin is a reflection of Tolstoy himself, often expressing the author's own views and convictions.",
+        "imageName": "AnnaKarenina.jpg",
+        "price": 27.55,
+        "releaseDate": "1877-01-01T00:00:00",
+        "rating": 0
+    }
+]

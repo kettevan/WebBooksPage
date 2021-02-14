@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'cardo-regular';
+    src: url('assets/fonts/Cardo-Regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+  }  
+
+
+html {
+    height: 100%;
+  }
+  
+  body {
+    height: 100%;
+    margin: 0;
+    font-family: 'cardo-regular';
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("../assets/images/backgroundBooks.jpg");
+  }
+
+  #bookShopLogo {
+      width: 100px;
+      height: 100px;
+  }
+
+
+  #regisration-header {
+    height: 10%;
+  }
+
+  #main-holder {
+    width: 40%;
+    height: 80%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px 2px black;
+  }
+  
+  #registration-form {
+    width: 40%;
+    align-self: flex-start;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .registration-form-field::placeholder {
+    color: #3a3a3a;
+  }
+  
+  .registration-form-field {
+    border: none;
+    border-bottom: 2px solid #3a3a3a;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    outline: none;
+    padding: 0px 0px 5px 5px;
+    width: 100%
+  }
+  
+  #regisrtation-form-submit {
+    width: 70%;
+    margin-top: 20px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: #3a3a3a;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .registrationBtn {
+      background-color:cadetblue !important;
+  }
+
+  /* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 30%; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: #f7cfcf;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;border-radius: 7px;
+    box-shadow: 0px 0px 5px 2px black;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }

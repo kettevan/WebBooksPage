@@ -1,0 +1,47 @@
+[
+    {
+        "id": "fa5484cc-5311-48f0-958f-80ba1734a3d1",
+        "name": "Anna Karenina",
+        "author": {
+            "id": "18995b70-fa8f-4066-bff8-bca815d1826a",
+            "fullName": "Leo Tolstoy",
+            "birthDate": "1828-09-09T00:00:00"
+        },
+        "category": "Fiction",
+        "description": "Acclaimed by many as the world's greatest novel, Anna Karenina provides a vast panorama of contemporary life in Russia and of humanity in general. In it Tolstoy uses his intense imaginative insight to create some of the most memorable characters in all of literature. Anna is a sophisticated woman who abandons her empty existence as the wife of Karenin and turns to Count Vronsky to fulfil her passionate nature - with tragic consequences. Levin is a reflection of Tolstoy himself, often expressing the author's own views and convictions.",
+        "imageName": "AnnaKarenina.jpg",
+        "price": 27.55,
+        "releaseDate": "1877-01-01T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "5ffd96b7-5557-4fa4-b1d1-a1659551438f",
+        "name": "The Canterville Ghost",
+        "author": {
+            "id": "c18d644b-95bb-4114-a43d-63ff07e6caeb",
+            "fullName": "Oscar Wilde",
+            "birthDate": "1854-10-16T00:00:00"
+        },
+        "category": "Dark Comedy",
+        "description": "The Canterville Ghostis a humorous short story by Oscar Wilde. It was the first of Wilde's stories to be published, appearing in two parts in The Court and Society Review, 23 February and 2 March 1887.",
+        "imageName": "TheCantervilleGhost.jpg",
+        "price": 15.6,
+        "releaseDate": "1944-07-28T00:00:00",
+        "rating": 0
+    },
+    {
+        "id": "392f0cd0-6913-4d1c-a92b-f889684ff7aa",
+        "name": "The Picture of Dorian Gray",
+        "author": {
+            "id": "c18d644b-95bb-4114-a43d-63ff07e6caeb",
+            "fullName": "Oscar Wilde",
+            "birthDate": "1854-10-16T00:00:00"
+        },
+        "category": "Fiction",
+        "description": "The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott's Monthly Magazine. Fearing the story was indecent, prior to publication the magazine's editor deleted roughly five hundred words without Wilde's knowledge.",
+        "imageName": "ThePictureOfDorianGray.jpg",
+        "price": 19.99,
+        "releaseDate": "1890-01-01T00:00:00",
+        "rating": 0
+    }
+]
